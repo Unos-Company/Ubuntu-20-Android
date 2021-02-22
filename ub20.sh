@@ -1,3 +1,4 @@
+clear
 echo "welcome to Unos "
 echo "Installing > Ubuntu-20.04 "
 printf 'Press enter to continue ' && read enter
