@@ -5,9 +5,11 @@
 # Installation of Ubuntu-20.04
   [Just copy and paste it on termux or any terminal ]
   
-  • Step 1 = 'pkg i wget -y && wget https://raw.githubusercontent.com/Unos-Company/Ubuntu-20-Android/main/ub20.sh && bash ub20.sh
+    'pkg i wget -y && wget https://raw.githubusercontent.com/Unos-Company/Ubuntu-20-Android/main/ub20.sh && bash ub20.sh
 
-  • Step 2 =  To start Ubuntu type 'unos-ubuntu-20.04'
+  • To start Ubuntu type 
+    
+    'unos-ubuntu-20.04'
 
 # Ubuntu apps to install 
 
